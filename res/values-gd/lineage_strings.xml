@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Seall aplacaid Google</string>
-    <string name="msg_minus_one_on_left">Le grad-shlaighdeadh gu deas on phrìomh sgrìn dhachaigh</string>
-    <string name="msg_minus_one_on_right">Le grad-shlaighdeadh gu clì on phrìomh sgrìn dhachaigh</string>
     <string name="settings_edit_allow_title">Ceadaich deasachadh</string>
     <string name="settings_edit_allow_summary_on">Gabhaidh ìomhaigheagan is widgets a deasachadh, a thoirt air falbh ’s a ghluasad air an sgrìn dhachaigh</string>
     <string name="settings_edit_allow_summary_off">Cha ghabh ìomhaigheagan is widgets a deasachadh, a thoirt air falbh ’s a ghluasad air an sgrìn dhachaigh</string>

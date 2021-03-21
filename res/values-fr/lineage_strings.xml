@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Afficher l\'application Google</string>
-    <string name="msg_minus_one_on_left">Lors d\'un balayage vers la droite sur l\'écran d\'accueil principal</string>
-    <string name="msg_minus_one_on_right">Lors d\'un balayage vers la gauche sur l\'écran d\'accueil principal</string>
     <string name="settings_category_apps">Applications</string>
     <string name="settings_category_desktop">Écran d\'accueil</string>
     <string name="settings_category_labels">Étiquettes</string>

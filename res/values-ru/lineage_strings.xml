@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Показать приложение Google</string>
-    <string name="msg_minus_one_on_left">При свайпе вправо от главного экрана</string>
-    <string name="msg_minus_one_on_right">При свайпе влево от главного экрана</string>
     <string name="settings_category_apps">Приложения</string>
     <string name="settings_category_desktop">Компьютер</string>
     <string name="settings_category_labels">Метки</string>

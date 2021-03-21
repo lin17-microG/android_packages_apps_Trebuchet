@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Google 앱 표시</string>
-    <string name="msg_minus_one_on_left">메인 홈 화면에서 오른쪽으로 스와이프할 때</string>
-    <string name="msg_minus_one_on_right">메인 홈 화면에서 왼쪽으로 스와이프할 때</string>
     <string name="settings_category_apps">앱</string>
     <string name="settings_category_desktop">홈 화면</string>
     <string name="settings_category_labels">라벨</string>

@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Mostrar aplicación de Google</string>
-    <string name="msg_minus_one_on_left">Al deslizar a la derecha desde la pantalla principal</string>
-    <string name="msg_minus_one_on_right">Al deslizar a la izquierda desde la pantalla principal</string>
     <string name="settings_edit_allow_title">Permitir la edición</string>
     <string name="settings_edit_allow_summary_on">Los iconos y widgets se pueden añadir, quitar y mover en la pantalla de inicio</string>
     <string name="settings_edit_allow_summary_off">Los iconos y widgets no se pueden añadir, quitar o mover en la pantalla de inicio</string>

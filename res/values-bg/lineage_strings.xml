@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Покажи Google апликацията</string>
-    <string name="msg_minus_one_on_left">Когато плъзнете надясно от главното меню</string>
-    <string name="msg_minus_one_on_right">Когато плъзнете наляво от главното меню</string>
     <string name="settings_category_apps">Приложения</string>
     <string name="settings_category_desktop">Десктоп</string>
     <string name="settings_category_labels">Етикети</string>

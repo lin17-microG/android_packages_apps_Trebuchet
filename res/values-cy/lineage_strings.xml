@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Dangos ap Google</string>
-    <string name="msg_minus_one_on_left">Pan rwyt yn llusgo i\'r dde o\'r brif sgrin gartref</string>
-    <string name="msg_minus_one_on_right">Pan rwyt yn llusgo i\'r chwith o\'r brif sgrin gartref</string>
     <string name="settings_category_apps">Apiau</string>
     <string name="settings_category_desktop">Bwrdd gwaith</string>
     <string name="settings_category_labels">Labeli</string>

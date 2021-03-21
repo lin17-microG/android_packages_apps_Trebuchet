@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Google App anzeigen</string>
-    <string name="msg_minus_one_on_left">Wenn Sie vom Hauptstartbildschirm aus nach rechts wischen</string>
-    <string name="msg_minus_one_on_right">Wenn Sie vom Hauptstartbildschirm aus nach links wischen</string>
     <string name="settings_category_apps">Apps</string>
     <string name="settings_category_desktop">Startbildschirm</string>
     <string name="settings_category_labels">Beschriftungen</string>

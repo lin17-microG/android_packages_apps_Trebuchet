@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Arată aplicația Google</string>
-    <string name="msg_minus_one_on_left">Când glisați dreapta din ecranul acasă principal</string>
-    <string name="msg_minus_one_on_right">Când glisați stânga din ecranul acasă principal</string>
     <string name="settings_category_apps">Aplicații</string>
     <string name="settings_category_desktop">Desktop</string>
     <string name="settings_category_labels">Etichete</string>

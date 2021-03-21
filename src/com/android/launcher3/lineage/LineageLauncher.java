@@ -19,14 +19,7 @@ import com.android.launcher3.Launcher;
 
 public class LineageLauncher extends Launcher {
 
-    private final LineageLauncherCallbacks mCallbacks;
-
     public LineageLauncher() {
-        mCallbacks = new LineageLauncherCallbacks(this);
-        setLauncherCallbacks(mCallbacks);
-    }
-
-    public LineageLauncherCallbacks getCallbacks() {
-        return mCallbacks;
+        setLauncherCallbacks(new LineageLauncherCallbacks(this));
     }
 }

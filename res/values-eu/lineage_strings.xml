@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Erakutsi Google aplikazioa</string>
-    <string name="msg_minus_one_on_left">Hasiera pantailatik hatza eskuinera pasatzean</string>
-    <string name="msg_minus_one_on_right">Hasiera pantailatik hatza ezkerrera pasatzean</string>
     <string name="settings_edit_allow_title">Baimendu editatzea</string>
     <string name="settings_edit_allow_summary_on">Ikonoak eta trepetak hasieran pantailan gehitu, kendu daitezke eta lekuz aldatu daitezke</string>
     <string name="settings_edit_allow_summary_off">Ezin daitezke ikonoak eta trepetak hasieran pantailan gehitu, kendu edo lekuz aldatu</string>

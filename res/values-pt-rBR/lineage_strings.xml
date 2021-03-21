@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Mostrar app do Google</string>
-    <string name="msg_minus_one_on_left">Ao deslizar para a direita na tela inicial</string>
-    <string name="msg_minus_one_on_right">Ao deslizar para a esquerda na tela inicial</string>
     <string name="settings_category_apps">Aplicativos</string>
     <string name="settings_category_desktop">Área de trabalho</string>
     <string name="settings_edit_allow_title">Permitir edições</string>

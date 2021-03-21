@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Amosar a aplicación Google Now</string>
-    <string name="msg_minus_one_on_left">Cando deslizas cara á dereita dende a pantalla de inicio</string>
-    <string name="msg_minus_one_on_right">Cando esvaras cara á esquerda dende a pantalla de inicio</string>
     <string name="settings_category_apps">Aplicacións</string>
     <string name="settings_category_desktop">Escritorio</string>
     <string name="settings_category_labels">Etiquetas</string>

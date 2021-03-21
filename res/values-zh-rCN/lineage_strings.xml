@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">显示 Google 应用</string>
-    <string name="msg_minus_one_on_left">当您从主屏幕向右滑动时</string>
-    <string name="msg_minus_one_on_right">当您从主屏幕向左滑动时</string>
     <string name="settings_category_apps">应用</string>
     <string name="settings_category_desktop">桌面</string>
     <string name="settings_category_labels">标签</string>

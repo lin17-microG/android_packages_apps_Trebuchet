@@ -49,7 +49,6 @@ import com.android.launcher3.R;
 import com.android.launcher3.Utilities;
 import com.android.launcher3.config.FeatureFlags;
 import com.android.launcher3.graphics.GridOptionsProvider;
-import com.android.launcher3.lineage.LineageLauncherCallbacks;
 import com.android.launcher3.lineage.LineageUtils;
 import com.android.launcher3.lineage.icon.IconPackStore;
 import com.android.launcher3.lineage.icon.IconPackSettingsActivity;
@@ -75,7 +74,6 @@ public class SettingsActivity extends Activity
     private static final int DELAY_HIGHLIGHT_DURATION_MILLIS = 600;
     public static final String SAVE_HIGHLIGHTED_KEY = "android:preference_highlighted";
 
-    public static final String KEY_MINUS_ONE = "pref_enable_minus_one";
     public static final String KEY_TRUST_APPS = "pref_trust_apps";
     public static final String KEY_ICON_PACK = "pref_icon_pack";
 
@@ -253,10 +251,6 @@ public class SettingsActivity extends Activity
                     // Show if plugins are enabled or flag UI is enabled.
                     return FeatureFlags.showFlagTogglerUi(getContext()) ||
                             PluginManagerWrapper.hasPlugins(getContext());
-
-                case KEY_MINUS_ONE:
-                    return LineageUtils.hasPackageInstalled(getActivity(),
-                            LineageLauncherCallbacks.SEARCH_PACKAGE);
 
                 case KEY_TRUST_APPS:
                     preference.setOnPreferenceClickListener(p -> {

@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">أظهر تطبيق Google</string>
-    <string name="msg_minus_one_on_left">عند السحب لليمين من الشاشة الرئيسية الاساسية</string>
-    <string name="msg_minus_one_on_right">عند السحب لليسار من الشاشة الرئيسية الأساسية</string>
     <string name="settings_edit_allow_title">السماح بالتحرير</string>
     <string name="settings_edit_allow_summary_on">يمكن إضافة الرموز والأدوات وإزالتها ونقلها على الشاشة الرئيسية</string>
     <string name="settings_edit_allow_summary_off">لا يمكن إضافة الرموز والأدوات وإزالتها ونقلها على الشاشة الرئيسية</string>

@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Εμφάνιση εφαρμογής Google</string>
-    <string name="msg_minus_one_on_left">Όταν σύρετε προς τα δεξιά από την κύρια αρχική οθόνη</string>
-    <string name="msg_minus_one_on_right">Όταν σύρετε προς τα αριστερά από την κύρια αρχική οθόνη</string>
     <string name="settings_category_apps">Εφαρμογές</string>
     <string name="settings_category_desktop">Επιφάνεια εργασίας</string>
     <string name="settings_category_labels">Ετικέτες</string>

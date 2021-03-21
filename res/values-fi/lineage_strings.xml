@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Näytä Google-sovellus</string>
-    <string name="msg_minus_one_on_left">Kun pyyhkäiset oikealle pääkotinäytöltä</string>
-    <string name="msg_minus_one_on_right">Kun pyyhkäiset vasemmalle pääkotinäytöltä</string>
     <string name="settings_category_apps">Sovellukset</string>
     <string name="settings_category_desktop">Kotinäyttö</string>
     <string name="settings_category_labels">Tunnisteet</string>

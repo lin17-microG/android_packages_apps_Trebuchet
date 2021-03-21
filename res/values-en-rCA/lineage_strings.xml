@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Show Google app</string>
-    <string name="msg_minus_one_on_left">When you swipe right from main home screen</string>
-    <string name="msg_minus_one_on_right">When you swipe left from main home screen</string>
     <string name="settings_category_apps">Apps</string>
     <string name="settings_category_desktop">Desktop</string>
     <string name="settings_category_labels">Labels</string>

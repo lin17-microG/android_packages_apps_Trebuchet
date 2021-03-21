@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Google-app toane</string>
-    <string name="msg_minus_one_on_left">Wannear\'t jo fan it startskerm út nei rjochts feie</string>
-    <string name="msg_minus_one_on_right">Wannear\'t jo fan it startskerm út nei links feie</string>
     <string name="settings_edit_allow_title">Bewurkjen tastean</string>
     <string name="settings_edit_allow_summary_on">Piktogrammen en widgets kinne tafoege, fuortsmiten en ferpleatst wurde op it startskerm</string>
     <string name="settings_edit_allow_summary_off">Piktogrammen en widgets kinne net tafoege, fuortsmiten en ferpleatst wurde op it startskerm</string>

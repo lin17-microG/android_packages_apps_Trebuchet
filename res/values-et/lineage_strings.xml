@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Kuva Google\'i rakendus</string>
-    <string name="msg_minus_one_on_left">Kui viipad põhiliselt avaekraanilt paremale</string>
-    <string name="msg_minus_one_on_right">Kui viipad põhiliselt avaekraanilt vasakule</string>
     <string name="settings_category_apps">Rakendused</string>
     <string name="settings_category_desktop">Töölaud</string>
     <string name="settings_category_labels">Sildid</string>

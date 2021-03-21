@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">Tampilkan aplikasi Google</string>
-    <string name="msg_minus_one_on_left">Ketika Anda mengusap ke kanan dari layar utama</string>
-    <string name="msg_minus_one_on_right">Ketika Anda mengusap ke kiri dari layar utama</string>
     <string name="settings_category_apps">Aplikasi</string>
     <string name="settings_category_desktop">Layar utama</string>
     <string name="settings_category_labels">Label</string>

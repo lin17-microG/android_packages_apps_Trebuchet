@@ -14,9 +14,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="title_show_google_app">ಗೂಗಲ್ ಆಪ್ ತೋರಿಸು</string>
-    <string name="msg_minus_one_on_left">ತವರು ಪರದೆಯಿಂದ ನೀವು ಬಲಕ್ಕೆ ಸೆಳೆದಾಗ</string>
-    <string name="msg_minus_one_on_right">ತವರು ಪರದೆಯಿಂದ ನೀವು ಎಡಕ್ಕೆ ಸೆಳೆದಾಗ</string>
     <string name="settings_edit_allow_title">ಸಂಪಾದನೆ ಅನುಮತಿಸು</string>
     <string name="settings_edit_allow_summary_on">ಮುಖ್ಯ ಪರದೆಯ ಮೇಲೆ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಕಿಂಡಿಚೂಟಿಗಳನ್ನು ಸೇರಿಕೆ, ತೆಗೆಯುವಿಕೆ ಮತ್ತು ಸ್ಥಳಾಂತರ ಮಾಡಬಹುದು</string>
     <string name="settings_edit_allow_summary_off">ತವರುಪರದೆಯ ಮೇಲೆ ಚಿಹ್ನೆಗಳು ಮತ್ತು ಕಿಂಡಿಚೂಟಿಗಳನ್ನು ಸೇರಿಕೆ, ತೆಗೆಯುವಿಕೆ ಮತ್ತು ಸ್ಥಳಾಂತರ ಆಗುವುದಿಲ್ಲ</string>
